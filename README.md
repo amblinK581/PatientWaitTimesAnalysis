@@ -51,12 +51,6 @@ Conclusion
 
 The study provides evidence that racial minorities face longer wait times in emergency rooms and that holidays tend to have shorter wait times compared to weekdays. The Lasso regression model identified critical variables that contribute to predicting wait times, helping to inform future improvements in emergency room management.
 
-How to Use This Repository
-
-	1.	Data: The data/ folder contains the 2013 NHAMCS dataset.
-	2.	Scripts: The scripts/ folder includes Python code for data cleaning, statistical analysis, and model building.
-	3.	Results: The results/ folder contains visualizations and tables from the analysis.
-	4.	Report: The final project report is available in the docs/ folder.
 
 Requirements
 
